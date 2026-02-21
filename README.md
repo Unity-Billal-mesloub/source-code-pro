@@ -18,8 +18,8 @@ in user interface (UI) environments.
 ### Requirements
 
 To build the binary font files from source, you need Python 3 along with the
-[Adobe Font Development Kit for OpenType](https://github.com/adobe-type-tools/afdko/) (AFDKO) and
-[FontTools](https://github.com/fonttools/fonttools) packages, which you can install with
+[Adobe Font Development Kit for OpenType](https://github.com/Unity-Billal-mesloub/afdko/) (AFDKO) and
+[FontTools](https://github.com/Unity-Billal-mesloub/fonttools) packages, which you can install with
 
 ```sh
 pip3 install afdko
